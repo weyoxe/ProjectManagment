@@ -1,0 +1,15 @@
+C:\Users\ццц\source\repos\AppProjectManagment\App.BLL\bin\Debug\net7.0\App.BLL.deps.json
+C:\Users\ццц\source\repos\AppProjectManagment\App.BLL\bin\Debug\net7.0\App.BLL.dll
+C:\Users\ццц\source\repos\AppProjectManagment\App.BLL\bin\Debug\net7.0\App.BLL.pdb
+C:\Users\ццц\source\repos\AppProjectManagment\App.BLL\bin\Debug\net7.0\App.DAL.dll
+C:\Users\ццц\source\repos\AppProjectManagment\App.BLL\bin\Debug\net7.0\App.DAL.pdb
+C:\Users\ццц\source\repos\AppProjectManagment\App.BLL\obj\Debug\net7.0\App.BLL.csproj.AssemblyReference.cache
+C:\Users\ццц\source\repos\AppProjectManagment\App.BLL\obj\Debug\net7.0\App.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ццц\source\repos\AppProjectManagment\App.BLL\obj\Debug\net7.0\App.BLL.AssemblyInfoInputs.cache
+C:\Users\ццц\source\repos\AppProjectManagment\App.BLL\obj\Debug\net7.0\App.BLL.AssemblyInfo.cs
+C:\Users\ццц\source\repos\AppProjectManagment\App.BLL\obj\Debug\net7.0\App.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ццц\source\repos\AppProjectManagment\App.BLL\obj\Debug\net7.0\App.BLL.csproj.CopyComplete
+C:\Users\ццц\source\repos\AppProjectManagment\App.BLL\obj\Debug\net7.0\App.BLL.dll
+C:\Users\ццц\source\repos\AppProjectManagment\App.BLL\obj\Debug\net7.0\refint\App.BLL.dll
+C:\Users\ццц\source\repos\AppProjectManagment\App.BLL\obj\Debug\net7.0\App.BLL.pdb
+C:\Users\ццц\source\repos\AppProjectManagment\App.BLL\obj\Debug\net7.0\ref\App.BLL.dll

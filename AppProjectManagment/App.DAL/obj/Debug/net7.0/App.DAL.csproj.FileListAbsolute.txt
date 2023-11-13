@@ -1,0 +1,14 @@
+C:\Users\ццц\source\repos\AppProjectManagment\App.DAL\bin\Debug\net7.0\App.DAL.deps.json
+C:\Users\ццц\source\repos\AppProjectManagment\App.DAL\bin\Debug\net7.0\App.DAL.dll
+C:\Users\ццц\source\repos\AppProjectManagment\App.DAL\bin\Debug\net7.0\App.DAL.pdb
+C:\Users\ццц\source\repos\AppProjectManagment\App.DAL\obj\Debug\net7.0\App.DAL.csproj.AssemblyReference.cache
+C:\Users\ццц\source\repos\AppProjectManagment\App.DAL\obj\Debug\net7.0\App.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ццц\source\repos\AppProjectManagment\App.DAL\obj\Debug\net7.0\App.DAL.AssemblyInfoInputs.cache
+C:\Users\ццц\source\repos\AppProjectManagment\App.DAL\obj\Debug\net7.0\App.DAL.AssemblyInfo.cs
+C:\Users\ццц\source\repos\AppProjectManagment\App.DAL\obj\Debug\net7.0\App.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ццц\source\repos\AppProjectManagment\App.DAL\obj\Debug\net7.0\App.DAL.dll
+C:\Users\ццц\source\repos\AppProjectManagment\App.DAL\obj\Debug\net7.0\refint\App.DAL.dll
+C:\Users\ццц\source\repos\AppProjectManagment\App.DAL\obj\Debug\net7.0\App.DAL.pdb
+C:\Users\ццц\source\repos\AppProjectManagment\App.DAL\obj\Debug\net7.0\ref\App.DAL.dll
+C:\Users\ццц\source\repos\AppProjectManagment\App.DAL\bin\Debug\net7.0\App.DAL.runtimeconfig.json
+C:\Users\ццц\source\repos\AppProjectManagment\App.DAL\obj\Debug\net7.0\App.DAL.genruntimeconfig.cache
